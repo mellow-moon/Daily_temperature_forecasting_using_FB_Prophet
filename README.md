@@ -48,7 +48,7 @@ To detect anomalies we need to calculate our model's errors and confidence inter
 
 Plot prediction and uncertanity interval.
 
-<img src="img/prediction_upper_lower.png" width="700"/>
+<img src="img/prediction_upper_lower.png" width="800"/>
 
 In our case all observations are normal.
 
