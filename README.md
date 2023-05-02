@@ -10,15 +10,15 @@ The units are in degrees Celsius and there are 3650 observations. The source of 
 
 Dataset has two columns: Date and Temp.
 
-<img src="img/data_columns.png" width="700"/>
+<img src="img/data_columns.png" width="400"/>
 
 Let's plot a histogram of temperature distribution.
 
-<img src="img/daily_temp_hist.png" width="700"/>
+<img src="img/daily_temp_hist.png" width="400"/>
 
 Also let's take a look at mean value and standard deviation of the data.
 
-<img src="img/mean_and_standard_deviation.png" width="700"/>
+<img src="img/mean_and_standard_deviation.png" width="800"/>
 
 In this project we will use data for only one year. Let's plot it.
 
