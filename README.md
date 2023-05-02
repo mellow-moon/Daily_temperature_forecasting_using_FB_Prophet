@@ -22,23 +22,23 @@ Also let's take a look at mean value and standard deviation of the data.
 
 In this project we will use data for only one year. Let's plot it.
 
-<img src="img/year_1990.png" width="700"/>
+<img src="img/year_1990.png" width="800"/>
 
 # Autocorrelation and partial autocorrelation
 
 Below is a plot of the autocorrelation and partial autocorrelation.
 
-<img src="img/autocorreleation_pacf.png" width="700"/>
+<img src="img/autocorreleation_pacf.png" width="800"/>
 
 # Model Training
 
 Let's train the model with the following parameters.
 
-<img src="img/fb_prophet.png" width="700"/>
+<img src="img/fb_prophet.png" width="400"/>
 
 Now we can make a prediction and plot it.
 
-<img src="img/prophet_prediction.png" width="700"/>
+<img src="img/prophet_prediction.png" width="800"/>
 
 # Anomaly detection
 
